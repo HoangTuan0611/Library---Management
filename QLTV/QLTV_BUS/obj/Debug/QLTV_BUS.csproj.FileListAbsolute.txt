@@ -1,0 +1,33 @@
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_BUS\bin\Debug\QLTV_BUS.dll
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_BUS\bin\Debug\QLTV_BUS.pdb
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_BUS\bin\Debug\QLTV_DAL.dll
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_BUS\bin\Debug\QLTV_Entity.dll
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_BUS\bin\Debug\QLTV_DAL.pdb
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_BUS\bin\Debug\QLTV_Entity.pdb
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_BUS\obj\Debug\QLTV_BUS.csprojAssemblyReference.cache
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_BUS\obj\Debug\QLTV_BUS.csproj.CoreCompileInputs.cache
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_BUS\obj\Debug\QLTV_BUS.csproj.CopyComplete
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_BUS\obj\Debug\QLTV_BUS.dll
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_BUS\obj\Debug\QLTV_BUS.pdb
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_BUS\bin\Debug\QLTV_BUS.dll
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_BUS\bin\Debug\QLTV_BUS.pdb
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_BUS\bin\Debug\QLTV_DAL.dll
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_BUS\bin\Debug\QLTV_Entity.dll
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_BUS\bin\Debug\QLTV_DAL.pdb
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_BUS\bin\Debug\QLTV_Entity.pdb
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_BUS\obj\Debug\QLTV_BUS.csprojAssemblyReference.cache
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_BUS\obj\Debug\QLTV_BUS.csproj.CoreCompileInputs.cache
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_BUS\obj\Debug\QLTV_BUS.csproj.CopyComplete
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_BUS\obj\Debug\QLTV_BUS.dll
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_BUS\obj\Debug\QLTV_BUS.pdb
+D:\QLTV\QLTV\QLTV_BUS\bin\Debug\QLTV_BUS.dll
+D:\QLTV\QLTV\QLTV_BUS\bin\Debug\QLTV_BUS.pdb
+D:\QLTV\QLTV\QLTV_BUS\bin\Debug\QLTV_DAL.dll
+D:\QLTV\QLTV\QLTV_BUS\bin\Debug\QLTV_Entity.dll
+D:\QLTV\QLTV\QLTV_BUS\bin\Debug\QLTV_DAL.pdb
+D:\QLTV\QLTV\QLTV_BUS\bin\Debug\QLTV_Entity.pdb
+D:\QLTV\QLTV\QLTV_BUS\obj\Debug\QLTV_BUS.csprojAssemblyReference.cache
+D:\QLTV\QLTV\QLTV_BUS\obj\Debug\QLTV_BUS.csproj.CoreCompileInputs.cache
+D:\QLTV\QLTV\QLTV_BUS\obj\Debug\QLTV_BUS.csproj.CopyComplete
+D:\QLTV\QLTV\QLTV_BUS\obj\Debug\QLTV_BUS.dll
+D:\QLTV\QLTV\QLTV_BUS\obj\Debug\QLTV_BUS.pdb

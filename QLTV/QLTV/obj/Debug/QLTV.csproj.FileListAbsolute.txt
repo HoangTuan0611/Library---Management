@@ -1,0 +1,108 @@
+D:\ĐH UIT\Học kì 4\QLTV\QLTV\bin\Debug\QLTV.exe.config
+D:\ĐH UIT\Học kì 4\QLTV\QLTV\bin\Debug\QLTV.exe
+D:\ĐH UIT\Học kì 4\QLTV\QLTV\bin\Debug\QLTV.pdb
+D:\ĐH UIT\Học kì 4\QLTV\QLTV\obj\Debug\QLTV.csprojAssemblyReference.cache
+D:\ĐH UIT\Học kì 4\QLTV\QLTV\obj\Debug\QLTV.FrmMain.resources
+D:\ĐH UIT\Học kì 4\QLTV\QLTV\obj\Debug\QLTV.FrmDocGia.resources
+D:\ĐH UIT\Học kì 4\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+D:\ĐH UIT\Học kì 4\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.cache
+D:\ĐH UIT\Học kì 4\QLTV\QLTV\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+D:\ĐH UIT\Học kì 4\QLTV\QLTV\obj\Debug\QLTV.exe
+D:\ĐH UIT\Học kì 4\QLTV\QLTV\obj\Debug\QLTV.pdb
+D:\ĐH UIT\Học kì 4\QLTV\QLTV\obj\Debug\QLTV.FrmSach.resources
+D:\ĐH UIT\Học kì 4\QLTV\QLTV\bin\Debug\QLTV_BUS.dll
+D:\ĐH UIT\Học kì 4\QLTV\QLTV\bin\Debug\QLTV_DAL.dll
+D:\ĐH UIT\Học kì 4\QLTV\QLTV\bin\Debug\QLTV_Entity.dll
+D:\ĐH UIT\Học kì 4\QLTV\QLTV\bin\Debug\Sqlhelper.1.0.0.0.Fakes.dll
+D:\ĐH UIT\Học kì 4\QLTV\QLTV\bin\Debug\Sqlhelper.dll
+D:\ĐH UIT\Học kì 4\QLTV\QLTV\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\ĐH UIT\Học kì 4\QLTV\QLTV\bin\Debug\QLTV_BUS.pdb
+D:\ĐH UIT\Học kì 4\QLTV\QLTV\bin\Debug\QLTV_DAL.pdb
+D:\ĐH UIT\Học kì 4\QLTV\QLTV\bin\Debug\QLTV_Entity.pdb
+D:\ĐH UIT\Học kì 4\QLTV\QLTV\bin\Debug\Sqlhelper.1.0.0.0.Fakes.xml
+D:\ĐH UIT\Học kì 4\QLTV\QLTV\obj\Debug\QLTV.FrmDangNhap.resources
+D:\ĐH UIT\Học kì 4\QLTV\QLTV\obj\Debug\QLTV.csproj.CopyComplete
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\bin\Debug\QLTV.exe
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\bin\Debug\QLTV.pdb
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\bin\Debug\QLTV_BUS.dll
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\bin\Debug\QLTV_DAL.dll
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\bin\Debug\QLTV_Entity.dll
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\bin\Debug\QLTV_BUS.pdb
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\bin\Debug\QLTV_DAL.pdb
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\bin\Debug\QLTV_Entity.pdb
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\bin\Debug\Sqlhelper.1.0.0.0.Fakes.xml
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.csprojAssemblyReference.cache
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.FrmDangNhap.resources
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.FrmMain.resources
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.FrmDocGia.resources
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.FrmPhieuMuonSach.resources
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.FrmSach.resources
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.cache
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.csproj.CopyComplete
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.exe
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.pdb
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.FrmDanhSachSach.resources
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.frmIDDG.resources
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.FrmTraSach.resources
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.FrmBaoCaoI.resources
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.FrmBaoCaoII.resources
+D:\QLTV\QLTV\QLTV\bin\Debug\QLTV.exe.config
+D:\QLTV\QLTV\QLTV\bin\Debug\QLTV.exe
+D:\QLTV\QLTV\QLTV\bin\Debug\QLTV.pdb
+D:\QLTV\QLTV\QLTV\bin\Debug\QLTV_BUS.dll
+D:\QLTV\QLTV\QLTV\bin\Debug\QLTV_DAL.dll
+D:\QLTV\QLTV\QLTV\bin\Debug\QLTV_Entity.dll
+D:\QLTV\QLTV\QLTV\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\QLTV\QLTV\QLTV\bin\Debug\QLTV_BUS.pdb
+D:\QLTV\QLTV\QLTV\bin\Debug\QLTV_DAL.pdb
+D:\QLTV\QLTV\QLTV\bin\Debug\QLTV_Entity.pdb
+D:\QLTV\QLTV\QLTV\bin\Debug\Sqlhelper.1.0.0.0.Fakes.xml
+D:\QLTV\QLTV\QLTV\obj\Debug\QLTV.csprojAssemblyReference.cache
+D:\QLTV\QLTV\QLTV\obj\Debug\QLTV.FrmBaoCaoI.resources
+D:\QLTV\QLTV\QLTV\obj\Debug\QLTV.FrmBaoCaoII.resources
+D:\QLTV\QLTV\QLTV\obj\Debug\QLTV.FrmDangNhap.resources
+D:\QLTV\QLTV\QLTV\obj\Debug\QLTV.FrmDanhSachSach.resources
+D:\QLTV\QLTV\QLTV\obj\Debug\QLTV.frmIDDG.resources
+D:\QLTV\QLTV\QLTV\obj\Debug\QLTV.FrmMain.resources
+D:\QLTV\QLTV\QLTV\obj\Debug\QLTV.FrmDocGia.resources
+D:\QLTV\QLTV\QLTV\obj\Debug\QLTV.FrmPhieuMuonSach.resources
+D:\QLTV\QLTV\QLTV\obj\Debug\QLTV.FrmSach.resources
+D:\QLTV\QLTV\QLTV\obj\Debug\QLTV.FrmTraSach.resources
+D:\QLTV\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+D:\QLTV\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.cache
+D:\QLTV\QLTV\QLTV\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+D:\QLTV\QLTV\QLTV\obj\Debug\QLTV.csproj.CopyComplete
+D:\QLTV\QLTV\QLTV\obj\Debug\QLTV.exe
+D:\QLTV\QLTV\QLTV\obj\Debug\QLTV.pdb
+D:\QLTV\QLTV\bin\Debug\QLTV.exe.config
+D:\QLTV\QLTV\bin\Debug\QLTV.exe
+D:\QLTV\QLTV\bin\Debug\QLTV.pdb
+D:\QLTV\QLTV\bin\Debug\QLTV_BUS.dll
+D:\QLTV\QLTV\bin\Debug\QLTV_DAL.dll
+D:\QLTV\QLTV\bin\Debug\QLTV_Entity.dll
+D:\QLTV\QLTV\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\QLTV\QLTV\bin\Debug\QLTV_BUS.pdb
+D:\QLTV\QLTV\bin\Debug\QLTV_DAL.pdb
+D:\QLTV\QLTV\bin\Debug\QLTV_Entity.pdb
+D:\QLTV\QLTV\bin\Debug\Sqlhelper.1.0.0.0.Fakes.xml
+D:\QLTV\QLTV\obj\Debug\QLTV.csprojAssemblyReference.cache
+D:\QLTV\QLTV\obj\Debug\QLTV.FrmBaoCaoI.resources
+D:\QLTV\QLTV\obj\Debug\QLTV.FrmBaoCaoII.resources
+D:\QLTV\QLTV\obj\Debug\QLTV.FrmDangNhap.resources
+D:\QLTV\QLTV\obj\Debug\QLTV.FrmDanhSachSach.resources
+D:\QLTV\QLTV\obj\Debug\QLTV.frmIDDG.resources
+D:\QLTV\QLTV\obj\Debug\QLTV.FrmMain.resources
+D:\QLTV\QLTV\obj\Debug\QLTV.FrmDocGia.resources
+D:\QLTV\QLTV\obj\Debug\QLTV.FrmPhieuMuonSach.resources
+D:\QLTV\QLTV\obj\Debug\QLTV.FrmSach.resources
+D:\QLTV\QLTV\obj\Debug\QLTV.FrmTraSach.resources
+D:\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+D:\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.cache
+D:\QLTV\QLTV\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+D:\QLTV\QLTV\obj\Debug\QLTV.csproj.CopyComplete
+D:\QLTV\QLTV\obj\Debug\QLTV.exe
+D:\QLTV\QLTV\obj\Debug\QLTV.pdb

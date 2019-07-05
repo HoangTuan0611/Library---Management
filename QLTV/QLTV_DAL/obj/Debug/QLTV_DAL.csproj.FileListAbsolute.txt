@@ -1,0 +1,27 @@
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_DAL\bin\Debug\QLTV_DAL.dll
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_DAL\bin\Debug\QLTV_DAL.pdb
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_DAL\bin\Debug\QLTV_Entity.dll
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_DAL\bin\Debug\QLTV_Entity.pdb
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_DAL\obj\Debug\QLTV_DAL.csprojAssemblyReference.cache
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_DAL\obj\Debug\QLTV_DAL.csproj.CoreCompileInputs.cache
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_DAL\obj\Debug\QLTV_DAL.csproj.CopyComplete
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_DAL\obj\Debug\QLTV_DAL.dll
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_DAL\obj\Debug\QLTV_DAL.pdb
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_DAL\bin\Debug\QLTV_DAL.dll
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_DAL\bin\Debug\QLTV_DAL.pdb
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_DAL\bin\Debug\QLTV_Entity.dll
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_DAL\bin\Debug\QLTV_Entity.pdb
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_DAL\obj\Debug\QLTV_DAL.csprojAssemblyReference.cache
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_DAL\obj\Debug\QLTV_DAL.csproj.CoreCompileInputs.cache
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_DAL\obj\Debug\QLTV_DAL.csproj.CopyComplete
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_DAL\obj\Debug\QLTV_DAL.dll
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_DAL\obj\Debug\QLTV_DAL.pdb
+D:\QLTV\QLTV\QLTV_DAL\bin\Debug\QLTV_DAL.dll
+D:\QLTV\QLTV\QLTV_DAL\bin\Debug\QLTV_DAL.pdb
+D:\QLTV\QLTV\QLTV_DAL\bin\Debug\QLTV_Entity.dll
+D:\QLTV\QLTV\QLTV_DAL\bin\Debug\QLTV_Entity.pdb
+D:\QLTV\QLTV\QLTV_DAL\obj\Debug\QLTV_DAL.csprojAssemblyReference.cache
+D:\QLTV\QLTV\QLTV_DAL\obj\Debug\QLTV_DAL.csproj.CoreCompileInputs.cache
+D:\QLTV\QLTV\QLTV_DAL\obj\Debug\QLTV_DAL.csproj.CopyComplete
+D:\QLTV\QLTV\QLTV_DAL\obj\Debug\QLTV_DAL.dll
+D:\QLTV\QLTV\QLTV_DAL\obj\Debug\QLTV_DAL.pdb

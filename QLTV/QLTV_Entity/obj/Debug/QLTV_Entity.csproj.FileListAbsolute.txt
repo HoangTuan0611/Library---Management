@@ -1,0 +1,12 @@
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_Entity\bin\Debug\QLTV_Entity.dll
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_Entity\bin\Debug\QLTV_Entity.pdb
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_Entity\obj\Debug\QLTV_Entity.csprojAssemblyReference.cache
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_Entity\obj\Debug\QLTV_Entity.csproj.CoreCompileInputs.cache
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_Entity\obj\Debug\QLTV_Entity.dll
+D:\ĐH UIT\Học kì 4\QLTV\QLTV_Entity\obj\Debug\QLTV_Entity.pdb
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_Entity\bin\Debug\QLTV_Entity.dll
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_Entity\bin\Debug\QLTV_Entity.pdb
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_Entity\obj\Debug\QLTV_Entity.csprojAssemblyReference.cache
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_Entity\obj\Debug\QLTV_Entity.csproj.CoreCompileInputs.cache
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_Entity\obj\Debug\QLTV_Entity.dll
+C:\Users\kirichigo\Downloads\QLTV\QLTV\QLTV_Entity\obj\Debug\QLTV_Entity.pdb
